@@ -1,2 +1,4 @@
-# Cart-o-de-Cr-dito
--Cartão de Crédito
+# Cartão de Crédito
+Desenvolvido com html, js e css
+
+
